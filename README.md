@@ -11,5 +11,5 @@ The bus ticket reservation system is a web-based application that permits users 
 
 # INSTALLATION PROCESS
 
-INSTALL XAMPP SERVER. I HAVE USED PHP,MYSQL AS BACKEND TOOL AND HTML,CSS,JS AND BOOTSTRAP AS FRONTEND TOOL.
-I HAVE USED PHPMYADMIN FOR MYSQL DATABASE.
+Install XAMPP server. i have used PHP, MYSQL as backend tool and HTML, CSS, JS and Bootstrap as frontend tool.
+i have use PHPMYADMIN for MYSQL database.
